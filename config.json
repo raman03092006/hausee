@@ -5,5 +5,5 @@
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register (iamop12345) (iamop12345)",
-	"login-cmd":"/login (iamop12345)",
+	"login-cmd":"/login (iamop12345)"
 }
