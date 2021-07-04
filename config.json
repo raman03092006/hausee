@@ -1,6 +1,6 @@
 {
-	"ip":"ragekaserver.mcpro.io,
-	"port": 1024,
+	"ip":"ragekaserver.mcpro.io",
+	"port": "1024",
 	"name": "creepmaster1827",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
